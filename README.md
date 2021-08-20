@@ -15,7 +15,7 @@ Advanced Pluggable Userbot to manage your Telegram Account
 
 ### Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ninjanaveen/NinjaUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angad005/ninja)
 
 ## Telegram-String
 
